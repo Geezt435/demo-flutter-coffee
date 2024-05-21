@@ -1,4 +1,4 @@
-# kolab_demo
+# DEMO FLUTTER COFFEE
 
 A new Flutter project.
 
